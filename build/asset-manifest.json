@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7dc8fc8b.chunk.css",
+    "main.js": "/static/js/main.cefe935d.chunk.js",
+    "main.js.map": "/static/js/main.cefe935d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d9ecd88d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d9ecd88d.js.map",
+    "static/js/2.dcf1bdef.chunk.js": "/static/js/2.dcf1bdef.chunk.js",
+    "static/js/2.dcf1bdef.chunk.js.map": "/static/js/2.dcf1bdef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7dc8fc8b.chunk.css.map": "/static/css/main.7dc8fc8b.chunk.css.map",
+    "static/js/2.dcf1bdef.chunk.js.LICENSE.txt": "/static/js/2.dcf1bdef.chunk.js.LICENSE.txt",
+    "static/media/brand-logo-1.0e6e1a6f.svg": "/static/media/brand-logo-1.0e6e1a6f.svg",
+    "static/media/brand-logo-2.712628a6.svg": "/static/media/brand-logo-2.712628a6.svg",
+    "static/media/brand-logo-3.64e95c3e.svg": "/static/media/brand-logo-3.64e95c3e.svg",
+    "static/media/brand-logo-4.7e84f007.svg": "/static/media/brand-logo-4.7e84f007.svg",
+    "static/media/brand-logo.5b346b18.svg": "/static/media/brand-logo.5b346b18.svg",
+    "static/media/img-1.faebf7d0.png": "/static/media/img-1.faebf7d0.png",
+    "static/media/img-2.a0078741.png": "/static/media/img-2.a0078741.png",
+    "static/media/layers.947015be.png": "/static/media/layers.947015be.png",
+    "static/media/pricing-bg.97360d40.png": "/static/media/pricing-bg.97360d40.png",
+    "static/media/responsive.195be276.png": "/static/media/responsive.195be276.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9ecd88d.js",
+    "static/js/2.dcf1bdef.chunk.js",
+    "static/css/main.7dc8fc8b.chunk.css",
+    "static/js/main.cefe935d.chunk.js"
+  ]
+}
